@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "64-rounded": "node process.js ./64-rounded 64 8"
+  },
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "fs-extra": "^11.2.0"
+  }
+}
