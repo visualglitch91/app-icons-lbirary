@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "64-rounded": "node process.js ./64-rounded 64 8"
+    "64-rounded": "node process.js ./64-rounded 64 8",
+    "256-rounded": "node process.js ./256-rounded 256 32"
   },
   "dependencies": {
     "canvas": "^2.11.2",
